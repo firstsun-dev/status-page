@@ -68,8 +68,6 @@ status-website:
   navbar:
     - title: 狀態
       href: /status-page
-    - title: 歷史
-      href: /status-page/history
     - title: GitHub
       href: https://github.com/firstsun-dev/status-page
 
