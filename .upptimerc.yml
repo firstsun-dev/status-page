@@ -1,31 +1,82 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: firstsun-dev
+repo: status-page
+user-agent: firstsun-dev
+
+assignees:
+  - firstsun-dev
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  # 打卡系統
+  - name: 官網打卡
+    slug: member-system
+    url: https://heavenfortress.com/member-system
+    tags: [打卡系統]
+    maxResponseTime: 5000
+  - name: id.heavenfortress.com
+    url: https://id.heavenfortress.com
+    tags: [打卡系統]
+    maxResponseTime: 5000
+  - name: checkin.heavenfortress.com
+    url: https://checkin.heavenfortress.com
+    tags: [打卡系統]
+    maxResponseTime: 5000
+  - name: Heavenweb host
+    slug: heavenweb-host
+    url: 114.32.31.90
+    check: tcp-ping
+    port: 443
+    tags: [伺服器, 打卡系統]
+  # 問路家族
+  - name: 首陽問路
+    slug: firstsun
+    url: https://firstsun.heavenfortress.com
+    tags: [問路家族]
+    maxResponseTime: 5000
+  - name: 劈山問路
+    slug: pmountain
+    url: https://pmountain.heavenfortress.com
+    tags: [問路家族]
+    maxResponseTime: 5000
+  - name: 小雨問路
+    slug: rainsru
+    url: https://rainsru.heavenfortress.com/
+    tags: [問路家族]
+    maxResponseTime: 5000
+  - name: 烈陽問路
+    slug: redcloud
+    url: https://redcloud2810.heavenfortress.com/
+    tags: [問路家族]
+    maxResponseTime: 5000
+
+workflowSchedule:
+  graphs: "30 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 2 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /status-page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  favicon: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Firstsun Status
+  introTitle: "Firstsun 服務狀態"
+  introMessage: "即時監控所有服務的運作狀況"
+  theme: light
   navbar:
-    - title: Status
-      href: /
+    - title: 狀態
+      href: /status-page/
+    - title: 歷史
+      href: /status-page/history
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/firstsun-dev/status-page
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  readmeContent: ":memo: Update README [skip ci]"
+  summaryJson: ":card_file_box: Update summary [skip ci]"
+  statusChange: ":group_performance: %s [skip ci]"
+  graphsUpdate: ":chart_with_upwards_trend: Update graphs [skip ci]"
+  commitAuthorName: "Upptime Bot"
+  commitAuthorEmail: "73812536+upptime-bot@users.noreply.github.com"
