@@ -67,14 +67,14 @@ status-website:
   theme: light
   navbar:
     - title: 狀態
-      href: /status-page
+      href: ./
     - title: GitHub
       href: https://github.com/firstsun-dev/status-page
 
 commitMessages:
   readmeContent: ":memo: Update README [skip ci]"
-  summaryJson: ":card_file_box: Update summary [skip ci]"
-  statusChange: ":group_performance: %s [skip ci]"
+  summaryJson: ":card_file_box: Update summary"
+  statusChange: ":group_performance: %s"
   graphsUpdate: ":chart_with_upwards_trend: Update graphs [skip ci]"
   commitAuthorName: "Upptime Bot"
   commitAuthorEmail: "73812536+upptime-bot@users.noreply.github.com"
