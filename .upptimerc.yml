@@ -67,9 +67,9 @@ status-website:
   theme: light
   navbar:
     - title: 狀態
-      href: /
+      href: /status-page
     - title: 歷史
-      href: /history
+      href: /status-page/history
     - title: GitHub
       href: https://github.com/firstsun-dev/status-page
 
