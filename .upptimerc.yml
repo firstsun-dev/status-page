@@ -73,7 +73,7 @@ status-website:
 
 commitMessages:
   readmeContent: ":memo: Update README [skip ci]"
-  summaryJson: ":card_file_box: Update summary"
+  summaryJson: ":card_file_box: Update summary [skip ci]"
   statusChange: "$PREFIX $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms) [skip ci] [upptime]"
   graphsUpdate: ":chart_with_upwards_trend: Update graphs [skip ci]"
   commitAuthorName: "Upptime Bot"
