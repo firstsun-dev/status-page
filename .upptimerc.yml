@@ -71,6 +71,21 @@ status-website:
     - title: GitHub
       href: https://github.com/firstsun-dev/status-page
 
+# LINE 通知設定（透過 GitHub Secrets 配置，無需修改此檔案）
+# 請至 GitHub → Settings → Secrets → Actions 新增以下 Secrets：
+#
+#   NOTIFICATION_CUSTOM_WEBHOOK          = true
+#   NOTIFICATION_CUSTOM_WEBHOOK_METHOD   = POST
+#   NOTIFICATION_CUSTOM_WEBHOOK_URL      = https://api.line.me/v2/bot/message/push
+#   NOTIFICATION_CUSTOM_WEBHOOK_HEADERS  = {"Authorization":"Bearer <LINE_CHANNEL_ACCESS_TOKEN>","Content-Type":"application/json"}
+#   NOTIFICATION_CUSTOM_WEBHOOK_BODY     = {"to":"<LINE_USER_OR_GROUP_ID>","messages":[{"type":"text","text":"$EMOJI $SITE_NAME 狀態異常\n狀態: $STATUS\nURL: $SITE_URL"}]}
+#
+# 取得 LINE Messaging API 憑證：
+#   1. 至 https://developers.line.biz/ 建立 Provider 與 Messaging API Channel
+#   2. 在 Channel 頁面取得 Channel access token（長期 token）
+#   3. 取得目標 User ID：讓使用者加 bot 為好友後，透過 webhook 或 LINE OA Manager 查詢
+#   4. 群組 ID：將 bot 加入群組後，可從 webhook 事件中取得
+
 commitMessages:
   readmeContent: ":memo: Update README [skip ci]"
   summaryJson: ":card_file_box: Update summary [skip ci]"
