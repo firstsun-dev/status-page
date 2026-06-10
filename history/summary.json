@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/heavenfortress.com.ico",
     "slug": "member-system",
     "status": "degraded",
-    "uptime": "99.95%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.02%",
+    "uptimeDay": "85.94%",
+    "uptimeWeek": "97.99%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
     "time": 4222,
     "timeDay": 10881,
     "timeWeek": 4222,
     "timeMonth": 4222,
     "timeYear": 4222,
     "dailyMinutesDown": {
-      "2026-06-10": 9
+      "2026-06-10": 203
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "114.32.31.90",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "heavenweb-host",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 180,
-    "timeDay": 190,
-    "timeWeek": 180,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "86.42%",
+    "uptimeWeek": "98.06%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 181,
+    "timeDay": 189,
+    "timeWeek": 181,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2026-06-10": 5
+      "2026-06-10": 195
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmountain.heavenfortress.com.ico",
     "slug": "pmountain",
     "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.05%",
+    "uptimeDay": "86.34%",
+    "uptimeWeek": "98.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
     "time": 3713,
     "timeDay": 12594,
     "timeWeek": 3713,
     "timeMonth": 3713,
     "timeYear": 3713,
     "dailyMinutesDown": {
-      "2026-06-10": 4
+      "2026-06-10": 197
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://rainsru.heavenfortress.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rainsru.heavenfortress.com.ico",
     "slug": "rainsru",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 6530,
-    "timeDay": 22061,
-    "timeWeek": 6530,
-    "timeMonth": 6530,
-    "timeYear": 6530,
+    "status": "up",
+    "uptime": "99.06%",
+    "uptimeDay": "86.48%",
+    "uptimeWeek": "98.07%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.06%",
+    "time": 5747,
+    "timeDay": 14796,
+    "timeWeek": 5747,
+    "timeMonth": 5747,
+    "timeYear": 5747,
     "dailyMinutesDown": {
-      "2026-06-10": 2
+      "2026-06-10": 195
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "https://redcloud2810.heavenfortress.com/",
     "icon": "https://icons.duckduckgo.com/ip3/redcloud2810.heavenfortress.com.ico",
     "slug": "redcloud",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2959,
-    "timeDay": 9877,
-    "timeWeek": 2959,
-    "timeMonth": 2959,
-    "timeYear": 2959,
+    "status": "up",
+    "uptime": "99.07%",
+    "uptimeDay": "86.58%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
+    "time": 2599,
+    "timeDay": 6611,
+    "timeWeek": 2599,
+    "timeMonth": 2599,
+    "timeYear": 2599,
     "dailyMinutesDown": {
-      "2026-06-10": 0
+      "2026-06-10": 193
     }
   }
 ]
