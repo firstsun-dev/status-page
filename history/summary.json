@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/heavenfortress.com.ico",
     "slug": "member-system",
     "status": "down",
-    "uptime": "95.92%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "89.64%",
-    "uptimeMonth": "96.48%",
-    "uptimeYear": "95.92%",
+    "uptime": "95.90%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "89.50%",
+    "uptimeMonth": "96.45%",
+    "uptimeYear": "95.90%",
     "time": 5305,
     "timeDay": 606,
     "timeWeek": 8463,
@@ -26,7 +26,7 @@
       "2026-07-10": 223,
       "2026-07-14": 502,
       "2026-07-15": 54,
-      "2026-07-16": 5
+      "2026-07-16": 19
     }
   },
   {
@@ -71,11 +71,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "heavenweb-host",
     "status": "down",
-    "uptime": "96.48%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "89.88%",
-    "uptimeMonth": "96.84%",
-    "uptimeYear": "96.48%",
+    "uptime": "96.46%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "89.74%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "96.46%",
     "time": 174,
     "timeDay": 177,
     "timeWeek": 157,
@@ -92,7 +92,7 @@
       "2026-07-10": 218,
       "2026-07-14": 485,
       "2026-07-15": 55,
-      "2026-07-16": 1
+      "2026-07-16": 14
     }
   },
   {
@@ -119,11 +119,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pmountain.heavenfortress.com.ico",
     "slug": "pmountain",
     "status": "down",
-    "uptime": "96.64%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "89.98%",
-    "uptimeMonth": "97.04%",
-    "uptimeYear": "96.64%",
+    "uptime": "96.62%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "89.84%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "96.62%",
     "time": 6274,
     "timeDay": 45,
     "timeWeek": 13584,
@@ -138,7 +138,7 @@
       "2026-07-10": 216,
       "2026-07-14": 477,
       "2026-07-15": 55,
-      "2026-07-16": 1
+      "2026-07-16": 14
     }
   },
   {
@@ -147,11 +147,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rainsru.heavenfortress.com.ico",
     "slug": "rainsru",
     "status": "down",
-    "uptime": "96.60%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "90.68%",
-    "uptimeMonth": "97.03%",
-    "uptimeYear": "96.60%",
+    "uptime": "96.59%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "90.55%",
+    "uptimeMonth": "97.00%",
+    "uptimeYear": "96.59%",
     "time": 6311,
     "timeDay": 298,
     "timeWeek": 8878,
@@ -168,7 +168,7 @@
       "2026-07-10": 215,
       "2026-07-14": 408,
       "2026-07-15": 55,
-      "2026-07-16": 0
+      "2026-07-16": 14
     }
   },
   {
@@ -177,11 +177,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/redcloud2810.heavenfortress.com.ico",
     "slug": "redcloud",
     "status": "down",
-    "uptime": "97.15%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "92.00%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.15%",
+    "uptime": "97.13%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "91.87%",
+    "uptimeMonth": "97.31%",
+    "uptimeYear": "97.13%",
     "time": 4694,
     "timeDay": 1466,
     "timeWeek": 8447,
@@ -197,7 +197,7 @@
       "2026-07-10": 139,
       "2026-07-14": 403,
       "2026-07-15": 3,
-      "2026-07-16": 0
+      "2026-07-16": 14
     }
   }
 ]
