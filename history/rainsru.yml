@@ -1,7 +1,7 @@
 url: https://rainsru.heavenfortress.com/
-status: up
-code: 200
-responseTime: 225
-lastUpdated: 2026-08-30T01:12:02.651Z
+status: degraded
+code: 504
+responseTime: 50229
+lastUpdated: 2026-08-30T10:42:43.426Z
 startTime: 2026-05-27T03:33:19.721Z
 generator: Upptime <https://github.com/upptime/upptime>
