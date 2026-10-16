@@ -20,12 +20,6 @@ sites:
     url: https://checkin.heavenfortress.com
     tags: [打卡系統]
     maxResponseTime: 5000
-  - name: Heavenweb host
-    slug: heavenweb-host
-    url: 114.32.31.90
-    check: tcp-ping
-    port: 443
-    tags: [伺服器, 打卡系統]
   # 問路家族
   - name: 首陽問路
     slug: firstsun
