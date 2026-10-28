@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/heavenfortress.com.ico",
     "slug": "member-system",
     "status": "up",
-    "uptime": "97.85%",
+    "uptime": "97.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.85%",
+    "uptimeYear": "97.86%",
     "time": 3058,
     "timeDay": 2615,
     "timeWeek": 2479,
@@ -96,11 +96,11 @@
     "url": "https://pmountain.heavenfortress.com",
     "icon": "https://icons.duckduckgo.com/ip3/pmountain.heavenfortress.com.ico",
     "slug": "pmountain",
-    "status": "up",
+    "status": "down",
     "uptime": "96.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.32%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "98.30%",
     "uptimeYear": "96.87%",
     "time": 6852,
     "timeDay": 3947,
@@ -132,7 +132,8 @@
       "2026-10-01": 419,
       "2026-10-04": 195,
       "2026-10-16": 65,
-      "2026-10-15": 56
+      "2026-10-15": 56,
+      "2026-10-28": 10
     }
   },
   {
@@ -140,17 +141,17 @@
     "url": "https://rainsru.heavenfortress.com/",
     "icon": "https://icons.duckduckgo.com/ip3/rainsru.heavenfortress.com.ico",
     "slug": "rainsru",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.30%",
-    "time": 4817,
-    "timeDay": 370,
-    "timeWeek": 522,
-    "timeMonth": 360,
-    "timeYear": 4817,
+    "time": 5071,
+    "timeDay": 25855,
+    "timeWeek": 6874,
+    "timeMonth": 1905,
+    "timeYear": 5071,
     "dailyMinutesDown": {
       "2026-06-10": 195,
       "2026-06-13": 252,
@@ -171,7 +172,8 @@
       "2026-08-23": 1440,
       "2026-08-22": 292,
       "2026-08-30": 258,
-      "2026-09-24": 238
+      "2026-09-24": 238,
+      "2026-10-28": 3
     }
   },
   {
@@ -179,17 +181,17 @@
     "url": "https://redcloud2810.heavenfortress.com/",
     "icon": "https://icons.duckduckgo.com/ip3/redcloud2810.heavenfortress.com.ico",
     "slug": "redcloud",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.55%",
-    "time": 4370,
-    "timeDay": 2181,
-    "timeWeek": 1467,
-    "timeMonth": 1457,
-    "timeYear": 4370,
+    "time": 4629,
+    "timeDay": 26432,
+    "timeWeek": 7619,
+    "timeMonth": 2948,
+    "timeYear": 4629,
     "dailyMinutesDown": {
       "2026-06-10": 193,
       "2026-06-15": 454,
@@ -209,7 +211,8 @@
       "2026-08-23": 1440,
       "2026-08-22": 289,
       "2026-08-30": 254,
-      "2026-09-24": 233
+      "2026-09-24": 233,
+      "2026-10-28": 0
     }
   }
 ]
