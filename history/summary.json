@@ -96,17 +96,17 @@
     "url": "https://pmountain.heavenfortress.com",
     "icon": "https://icons.duckduckgo.com/ip3/pmountain.heavenfortress.com.ico",
     "slug": "pmountain",
-    "status": "down",
-    "uptime": "96.87%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "96.87%",
-    "time": 6852,
-    "timeDay": 3947,
-    "timeWeek": 3145,
-    "timeMonth": 5462,
-    "timeYear": 6852,
+    "status": "degraded",
+    "uptime": "96.72%",
+    "uptimeDay": "75.45%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "96.72%",
+    "time": 7076,
+    "timeDay": 27088,
+    "timeWeek": 9031,
+    "timeMonth": 6640,
+    "timeYear": 7076,
     "dailyMinutesDown": {
       "2026-06-10": 427,
       "2026-06-15": 454,
@@ -133,7 +133,7 @@
       "2026-10-04": 195,
       "2026-10-16": 65,
       "2026-10-15": 56,
-      "2026-10-28": 10
+      "2026-10-28": 353
     }
   },
   {
@@ -142,11 +142,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/rainsru.heavenfortress.com.ico",
     "slug": "rainsru",
     "status": "degraded",
-    "uptime": "97.30%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "97.30%",
+    "uptime": "97.15%",
+    "uptimeDay": "75.95%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "97.15%",
     "time": 5071,
     "timeDay": 25855,
     "timeWeek": 6874,
@@ -173,7 +173,7 @@
       "2026-08-22": 292,
       "2026-08-30": 258,
       "2026-09-24": 238,
-      "2026-10-28": 3
+      "2026-10-28": 346
     }
   },
   {
@@ -182,11 +182,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/redcloud2810.heavenfortress.com.ico",
     "slug": "redcloud",
     "status": "degraded",
-    "uptime": "97.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.55%",
+    "uptime": "97.40%",
+    "uptimeDay": "76.16%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "97.40%",
     "time": 4629,
     "timeDay": 26432,
     "timeWeek": 7619,
@@ -212,7 +212,7 @@
       "2026-08-22": 289,
       "2026-08-30": 254,
       "2026-09-24": 233,
-      "2026-10-28": 0
+      "2026-10-28": 343
     }
   }
 ]
