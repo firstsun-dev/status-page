@@ -96,17 +96,17 @@
     "url": "https://pmountain.heavenfortress.com",
     "icon": "https://icons.duckduckgo.com/ip3/pmountain.heavenfortress.com.ico",
     "slug": "pmountain",
-    "status": "degraded",
-    "uptime": "96.28%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "83.89%",
-    "uptimeMonth": "95.57%",
-    "uptimeYear": "96.28%",
-    "time": 7184,
-    "timeDay": 6568,
-    "timeWeek": 13940,
-    "timeMonth": 6703,
-    "timeYear": 7184,
+    "status": "up",
+    "uptime": "96.17%",
+    "uptimeDay": "79.96%",
+    "uptimeWeek": "81.27%",
+    "uptimeMonth": "94.97%",
+    "uptimeYear": "96.17%",
+    "time": 7162,
+    "timeDay": 4707,
+    "timeWeek": 12831,
+    "timeMonth": 6604,
+    "timeYear": 7162,
     "dailyMinutesDown": {
       "2026-06-10": 427,
       "2026-06-15": 454,
@@ -135,7 +135,7 @@
       "2026-10-15": 56,
       "2026-10-29": 855,
       "2026-10-28": 744,
-      "2026-11-03": 25
+      "2026-11-03": 289
     }
   },
   {
