@@ -1,7 +1,7 @@
 url: https://pmountain.heavenfortress.com
-status: degraded
-code: 504
-responseTime: 50269
-lastUpdated: 2026-11-07T19:25:39.414Z
+status: up
+code: 200
+responseTime: 3628
+lastUpdated: 2026-11-07T22:51:00.942Z
 startTime: 2026-05-27T03:33:19.286Z
 generator: Upptime <https://github.com/upptime/upptime>
